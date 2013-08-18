@@ -13,6 +13,9 @@ Available at: http://www.ecse.rpi.edu/~wrf/p/159-acmgis2012-viewshed.pdf
 
 
 1) How to compile:
+
 ...
+
 2) How to use:
+
 ...
