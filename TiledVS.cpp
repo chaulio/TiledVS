@@ -1,8 +1,8 @@
 /** TiledVS 1.0. Date of release: July 25th, 2013. 
  *
  * 
- * Copyright (C) 2013 Chaulio Ferreira, Marcus Andrade, Salles Magalhaes
- * and W. Randolph Franklin.
+ * Copyright (C) 2013 Chaulio Ferreira, Marcus Andrade, Salles Magalhaes,
+ * W. Randolph Franklin and Andre Pompermayer.
  * 
  * This program is free software: you can redistribute it and/or modify it 
  * under the terms of the GNU General Public License as published by the 
