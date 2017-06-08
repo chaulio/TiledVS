@@ -30,7 +30,7 @@
  * observer in a rectangular elevation matrix. This algorithm has been 
  * specially designed to minimize I/O operations.
  * 
- * For further information, consider the following reference:
+ * For further information, consider the following references:
  * 
  * Ferreira, C.R., et al., 2012. More efficient terrain viewshed 
  * computation on massive datasets using external memory. In: Proceedings
@@ -38,6 +38,11 @@
  * Information Systems, SIGSPATIAL ’12, Redondo Beach, California, 
  * USA: ACM, 494–497.
  * Available at: http://www.ecse.rpi.edu/~wrf/p/159-acmgis2012-viewshed.pdf
+ *
+ * 2. Ferreira, C.R., et al. 2016, An efficient external memory algorithm 
+ * for terrain viewshed computation. In: ACM Transactions on Spatial
+ * Algorithms and Systems 2.2 (2016): 6.
+ * Available at: http://wrf.ecse.rpi.edu//p/197-chaulio-tiledvs-tsas-2016.pdf
  */
 
 
