@@ -15,7 +15,7 @@ Running
 -------
 To run it, you first need to create a "tiles" folder in the current directory. Then:
 
-    ./TiledVS NROWS NCOLS OBSERVER[0] OBSERVER[1] OBSERVER_HEIGHT RADIUS INPUT_FILE.hgt [BLOCKSIZE_ROWS, BLOCKSIZE_COLS] > OUTPUT_FILE.vs
+    ./TiledVS NROWS NCOLS OBSERVER[0] OBSERVER[1] OBSERVER_HEIGHT RADIUS INPUT_FILE.hgt MEM [BLOCKSIZE_ROWS, BLOCKSIZE_COLS] > OUTPUT_FILE.vs
 	
 	where:
 		* NROWS, NCOLS: Number of rows and columns in the input terrain file;
@@ -32,10 +32,14 @@ To run it, you first need to create a "tiles" folder in the current directory. T
 
 Bibliography
 ------------
-This program is described in the publication
+This program is described in the publications:
 
-Ferreira, C.R., et al., 2012. More efficient terrain viewshed 
+1. Ferreira, C.R., et al., 2012. More efficient terrain viewshed 
  computation on massive datasets using external memory. In: Proceedings
  of the 20th International Conference on Advances in Geographic 
  Information Systems, SIGSPATIAL ’12, Redondo Beach, California, 
  USA: ACM, 494–497.
+ 
+2. Ferreira, C.R., et al. 2016, An efficient external memory algorithm 
+ for terrain viewshed computation. In: ACM Transactions on Spatial
+ Algorithms and Systems 2.2 (2016): 6.
